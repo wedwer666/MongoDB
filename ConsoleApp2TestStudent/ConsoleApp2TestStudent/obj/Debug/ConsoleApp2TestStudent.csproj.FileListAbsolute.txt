@@ -1,0 +1,16 @@
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\ConsoleApp2TestStudent.exe.config
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\ConsoleApp2TestStudent.exe
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\ConsoleApp2TestStudent.pdb
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\DnsClient.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Bson.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Driver.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\System.Buffers.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\DnsClient.xml
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Bson.xml
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Driver.xml
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\obj\Debug\ConsoleApp2TestStudent.csprojResolveAssemblyReference.cache
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\obj\Debug\ConsoleApp2TestStudent.exe
+c:\users\maria\documents\visual studio 2017\Projects\ConsoleApp2TestStudent\ConsoleApp2TestStudent\obj\Debug\ConsoleApp2TestStudent.pdb
